@@ -401,7 +401,21 @@ Reality
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Readme-profile&theme=react-dark&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&custom_title=⚡%20365%20DAYS%20OF%20INNOVATION%20⚡)
 
-![Contribution Snake](https://raw.githubusercontent.com/Akshith1413/Akshith1413/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 </div>
 
