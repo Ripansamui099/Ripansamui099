@@ -548,7 +548,7 @@ Other         1 hr 10 mins   █░░░░░░░░░░░░░░░░
 
 ```mermaid
 graph TD
-    A[RAVULA AKSHITH] --> B[WEB DEVELOPMENT]
+    A[RIPAN SAMUI] --> B[WEB DEVELOPMENT]
     A --> C[MOBILE DEVELOPMENT]
     A --> D[AI/ML ENGINEERING]
     A --> E[IoT & EMBEDDED]
