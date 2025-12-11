@@ -393,14 +393,6 @@ Reality
 
 <div align="center">
 
-## 📈 『 CONTRIBUTION HEATMAP 』 📈
-
-</div>
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Readme-profile&theme=react-dark&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&custom_title=⚡%20365%20DAYS%20OF%20INNOVATION%20⚡)
-
 ## 🐍 Contribution Snake
 
 <div align="center">
