@@ -271,7 +271,7 @@ class DailyRoutine:
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=ai-powered-assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ripansamui099&repo=ai-powered-assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 🤖 AI-POWERED ASSISTANT
 **Full-Stack AI Application**
@@ -283,7 +283,7 @@ class DailyRoutine:
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=iot-home-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ripansamui099&repo=iot-home-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 🏠 IoT HOME AUTOMATION
 **Smart Home Control System**
@@ -297,7 +297,7 @@ class DailyRoutine:
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=cross-platform-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ripansamui099&repo=cross-platform-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 📱 CROSS-PLATFORM REVOLUTION
 **Universal Mobile Application**
@@ -309,7 +309,7 @@ class DailyRoutine:
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=electron-desktop-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ripansamui099&repo=electron-desktop-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 💻 DESKTOP POWERHOUSE
 **Native Desktop Application**
